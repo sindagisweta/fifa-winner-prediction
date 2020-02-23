@@ -10,10 +10,10 @@ This project uses hostirc FIFA world cup datat to train the model
 
 ## Python Librarys to be installed	
 
-matplotlib
-sklearn
-pandas
-numpy
+- matplotlib
+- sklearn
+- pandas
+- numpy
 
 ## Steps to run the code 
 1. Upload the dataset to HDFS using the below command
