@@ -1,7 +1,7 @@
 # Football Winner predictaion based on FIFA historic data
 
 Prediction of Football winner using machine algorithms CNN, Naive Bayes, Random Forest. 
-This project uses hostirc FIFA world cup datat to train the model
+This project uses hostoric FIFA world cup data to train the model
 
 ## Pre-requesties
 1. Hadooop instance with Spark installed
